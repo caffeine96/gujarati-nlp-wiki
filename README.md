@@ -3,7 +3,7 @@ The aim of the page is to have a common wiki for all NLP literature and tools ex
 
 
 ## Literature
-For dataset papers, refer to the Data section.\
+For dataset papers, refer to the [Data section](https://github.com/caffeine96/gujarati-nlp-wiki#classification).
 
 ## Data 
 ### Text Corpora
@@ -18,7 +18,7 @@ For dataset papers, refer to the Data section.\
 
 ### Classification 
 1. AI4Bharat-IndicNLP Article Topic Classification  (Size: 680 articles, Year : 2020, Source: News Articles, Classes: 3) [[Data](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/evaluations/classification/indicnlp-news-articles.tgz),[Paper](https://arxiv.org/abs/2005.00085),
-[Cite](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/data/monolingual/indicnlp_v1/sentence/gu.txt.gz)
+[Cite](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/data/monolingual/indicnlp_v1/sentence/gu.txt.gz)]
 2. INLTK Headline Classification Corpus  (Size: 6587 headlines, Year: 2020, Classes: 3) [[Data](https://github.com/ai4bharat-indicnlp/indicnlp_corpus#publicly-available-classification-datasets), [Repo](https://github.com/goru001/nlp-for-gujarati)]
 
 ## Tools
