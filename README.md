@@ -9,7 +9,7 @@ For dataset papers, refer to the [Data section](https://github.com/caffeine96/gu
 ### Text Corpora
 1. Dakshina (Size: 200k sentences, Year: 2020, Source: Wikipedia)[[Data](https://github.com/google-research-datasets/dakshina), [Repo](https://github.com/google-research-datasets/dakshina), [Cite](https://www.aclweb.org/anthology/2020.lrec-1.294.bib)]  
 2. AI4Bharat-IndicNLP (Size: 7.8 M sentences, Year : 2020, Source: News Articles) [[Data](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/data/monolingual/indicnlp_v1/sentence/gu.txt.gz),[Paper](https://arxiv.org/abs/2005.00085),
-[Cite](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/data/monolingual/indicnlp_v1/sentence/gu.txt.gz)
+[Cite](https://github.com/AI4Bharat/indicnlp_corpus#citing)]
 3. Gujarati Wikipedia Articles (Size: 31k articles, Year: 2020) [[Data](https://www.kaggle.com/disisbig/gujarati-wikipedia-articles)]
 4. Gujarati News Articles (Size: 6.5k articles, Year: 2020) [[Data](https://www.kaggle.com/disisbig/gujarati-news-dataset)]
 
