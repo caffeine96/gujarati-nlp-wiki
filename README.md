@@ -13,7 +13,7 @@ For dataset papers, refer to the Data section.\
 3. Gujarati Wikipedia Articles (Size: 31k articles, Year: 2020) [[Data](https://www.kaggle.com/disisbig/gujarati-wikipedia-articles)]
 4. Gujarati News Articles (Size: 6.5k articles, Year: 2020) [[Data](https://www.kaggle.com/disisbig/gujarati-news-dataset)]
 
-###Transliteration
+### Transliteration
 1. Dakshina (Size: 125k,Year: 2020, Source: Wikipedia)[[Data](https://github.com/google-research-datasets/dakshina), [Repo](https://github.com/google-research-datasets/dakshina), [Cite](https://www.aclweb.org/anthology/2020.lrec-1.294.bib)]
 
 ### Classification 
