@@ -5,6 +5,12 @@ The aim of the page is to have a common wiki for all NLP literature and tools ex
 ## Literature
 For dataset papers, refer to the Data section.\
 
+### Stemming
+1. Patel, Pratikkumar, Kashyap Popat, and Pushpak Bhattacharyya. "Hybrid stemmer for Gujarati." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010. [[Paper](https://www.aclweb.org/anthology/W10-3607.pdf),[Cite](https://www.aclweb.org/anthology/W10-3607.bib)]
+
+### Grammar
+1. Gujarati Grammar [Wikipedia Page](https://en.wikipedia.org/wiki/Gujarati_grammar)
+
 ## Data 
 ### Text Corpora
 1. Dakshina (Size: 200k sentences, Year: 2020, Source: Wikipedia)[[Data](https://github.com/google-research-datasets/dakshina), [Repo](https://github.com/google-research-datasets/dakshina), [Cite](https://www.aclweb.org/anthology/2020.lrec-1.294.bib)]  
