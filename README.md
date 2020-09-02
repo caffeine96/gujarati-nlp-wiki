@@ -6,7 +6,8 @@ The aim of the page is to have a common wiki for all NLP literature and tools ex
 For dataset papers, refer to the [Data section](https://github.com/caffeine96/gujarati-nlp-wiki#classification).
 
 ### Stemming
-1. Patel, Pratikkumar, Kashyap Popat, and Pushpak Bhattacharyya. "Hybrid stemmer for Gujarati." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010. [[Paper](https://www.aclweb.org/anthology/W10-3607.pdf),[Cite](https://www.aclweb.org/anthology/W10-3607.bib)]
+1. Suba, Kartik, Dipti Jiandani, and Pushpak Bhattacharyya. "Hybrid inflectional stemmer and rule-based derivational stemmer for gujarati." Proceedings of the 2nd workshop on South Southeast Asian natural language processing (WSSANLP). 2011. [[Paper](https://www.aclweb.org/anthology/W11-3001.pdf),[Cite](https://www.aclweb.org/anthology/W11-3001.bib)]
+2. Patel, Pratikkumar, Kashyap Popat, and Pushpak Bhattacharyya. "Hybrid stemmer for Gujarati." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010. [[Paper](https://www.aclweb.org/anthology/W10-3607.pdf),[Cite](https://www.aclweb.org/anthology/W10-3607.bib)]
 
 ### Grammar
 1. Gujarati Grammar [Wikipedia Page](https://en.wikipedia.org/wiki/Gujarati_grammar)
