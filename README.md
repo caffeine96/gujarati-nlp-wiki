@@ -5,6 +5,9 @@ The aim of the page is to have a common wiki for all NLP literature and tools ex
 ## Literature
 For dataset papers, refer to the [Data section](https://github.com/caffeine96/gujarati-nlp-wiki#classification).
 
+### Part of Speech
+1. Patel, Chirag, and Karthik Gali. "Part-of-speech tagging for Gujarati using conditional random fields." Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages. 2008. [[Paper](https://www.aclweb.org/anthology/I08-3019.pdf),[Cite](https://www.aclweb.org/anthology/I08-3019.bib)]
+
 ### Stemming
 1. Suba, Kartik, Dipti Jiandani, and Pushpak Bhattacharyya. "Hybrid inflectional stemmer and rule-based derivational stemmer for gujarati." Proceedings of the 2nd workshop on South Southeast Asian natural language processing (WSSANLP). 2011. [[Paper](https://www.aclweb.org/anthology/W11-3001.pdf),[Cite](https://www.aclweb.org/anthology/W11-3001.bib)]
 2. Patel, Pratikkumar, Kashyap Popat, and Pushpak Bhattacharyya. "Hybrid stemmer for Gujarati." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010. [[Paper](https://www.aclweb.org/anthology/W10-3607.pdf),[Cite](https://www.aclweb.org/anthology/W10-3607.bib)]
