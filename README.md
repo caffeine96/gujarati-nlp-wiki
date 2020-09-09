@@ -12,6 +12,9 @@ For dataset papers, refer to the [Data section](https://github.com/caffeine96/gu
 1. Suba, Kartik, Dipti Jiandani, and Pushpak Bhattacharyya. "Hybrid inflectional stemmer and rule-based derivational stemmer for gujarati." Proceedings of the 2nd workshop on South Southeast Asian natural language processing (WSSANLP). 2011. [[Paper](https://www.aclweb.org/anthology/W11-3001.pdf),[Cite](https://www.aclweb.org/anthology/W11-3001.bib)]
 2. Patel, Pratikkumar, Kashyap Popat, and Pushpak Bhattacharyya. "Hybrid stemmer for Gujarati." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010. [[Paper](https://www.aclweb.org/anthology/W10-3607.pdf),[Cite](https://www.aclweb.org/anthology/W10-3607.bib)]
 
+### WordNet
+1. Bhensdadia, C. K., Brijesh Bhatt, and Pushpak Bhattacharyya. "Introduction to Gujarati wordnet." Third national workshop on indowordnet proceedings. Vol. 494. 2010. [[Paper](http://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/01_iwn_GujaratiWordNet.pdf)]
+
 ### Grammar
 1. Gujarati Grammar [Wikipedia Page](https://en.wikipedia.org/wiki/Gujarati_grammar)
 
