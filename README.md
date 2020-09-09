@@ -13,7 +13,7 @@ For dataset papers, refer to the [Data section](https://github.com/caffeine96/gu
 2. Patel, Pratikkumar, Kashyap Popat, and Pushpak Bhattacharyya. "Hybrid stemmer for Gujarati." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010. [[Paper](https://www.aclweb.org/anthology/W10-3607.pdf),[Cite](https://www.aclweb.org/anthology/W10-3607.bib)]
 
 ### WordNet
-1. Bhensdadia, C. K., Brijesh Bhatt, and Pushpak Bhattacharyya. "Introduction to Gujarati wordnet." Third national workshop on indowordnet proceedings. Vol. 494. 2010. [[Paper](http://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/01_iwn_GujaratiWordNet.pdf)]
+1. Bhensdadia, C. K., Brijesh Bhatt, and Pushpak Bhattacharyya. "Introduction to Gujarati wordnet." Third national workshop on indowordnet proceedings. Vol. 494. 2010. [[Paper](http://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/01_iwn_GujaratiWordNet.pdf), [Browser](http://www.cfilt.iitb.ac.in/gujarati/first?langno=1&queryword=boy)]
 
 ### Grammar
 1. Gujarati Grammar [Wikipedia Page](https://en.wikipedia.org/wiki/Gujarati_grammar)
