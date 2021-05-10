@@ -18,6 +18,10 @@ For dataset papers, refer to the [Data section](https://github.com/caffeine96/gu
 ### Grammar
 1. Gujarati Grammar [Wikipedia Page](https://en.wikipedia.org/wiki/Gujarati_grammar)
 
+### Language Models
+1. **Indic-BERT:** Kakwani, Divyanshu, Anoop Kunchukuttan, Satish Golla, N. C. Gokul, Avik Bhattacharyya, Mitesh M. Khapra, and Pratyush Kumar. "iNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages." In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pp. 4948-4961. 2020. [[Paper](https://indicnlp.ai4bharat.org/papers/arxiv2020_indicnlp_corpus.pdf),[Documentation](https://indicnlp.ai4bharat.org/indic-bert/),[Model](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/models/indic-bert-v1.tar.gz)]
+2. **Indic-FT:** Kakwani, Divyanshu, Anoop Kunchukuttan, Satish Golla, N. C. Gokul, Avik Bhattacharyya, Mitesh M. Khapra, and Pratyush Kumar. "iNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages." In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pp. 4948-4961. 2020. [[Paper](https://indicnlp.ai4bharat.org/papers/arxiv2020_indicnlp_corpus.pdf),[Documentation](https://indicnlp.ai4bharat.org/indicft/),[Model](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/embedding-v2/indicnlp.ft.gu.300.bin)]
+
 ## Data 
 ### Text Corpora
 1. Dakshina (Size: 200k sentences, Year: 2020, Source: Wikipedia)[[Data](https://github.com/google-research-datasets/dakshina), [Repo](https://github.com/google-research-datasets/dakshina), [Cite](https://www.aclweb.org/anthology/2020.lrec-1.294.bib)]  
