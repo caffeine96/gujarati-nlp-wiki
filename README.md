@@ -35,6 +35,6 @@ For dataset papers, refer to the [Data section](https://github.com/caffeine96/gu
 2. INLTK Headline Classification Corpus  (Size: 6587 headlines, Year: 2020, Classes: 3) [[Data](https://github.com/ai4bharat-indicnlp/indicnlp_corpus#publicly-available-classification-datasets), [Repo](https://github.com/goru001/nlp-for-gujarati)]
 
 ### Annotation Literature
-1. Part of Speech Tagset: Gujarati (Also contains grammatical features) - [Document](https://www.ldcil.org/Download/Tagset/LDCIL/5Gujrati.pdf)
+1. Part of Speech Tagset: Gujarati (Also contains grammatical features)(Year:2009) - [Document](https://www.ldcil.org/Download/Tagset/LDCIL/5Gujrati.pdf)
 
 ## Tools
