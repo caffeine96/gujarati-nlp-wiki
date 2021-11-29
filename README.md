@@ -3,7 +3,7 @@ The aim of the page is to have a common wiki for all NLP literature and tools ex
 
 
 ## Literature
-For dataset papers, refer to the [Data section](https://github.com/caffeine96/gujarati-nlp-wiki#classification).
+For dataset papers, refer to the [Data section](https://github.com/caffeine96/gujarati-nlp-wiki#data).
 
 ### Part of Speech
 1. Patel, Chirag, and Karthik Gali. "Part-of-speech tagging for Gujarati using conditional random fields." Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages. 2008. [[Paper](https://www.aclweb.org/anthology/I08-3019.pdf),[Cite](https://www.aclweb.org/anthology/I08-3019.bib)]
