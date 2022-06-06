@@ -45,6 +45,10 @@ For dataset papers, refer to the [Data section](https://github.com/caffeine96/gu
 [Cite](https://storage.googleapis.com/ai4bharat-public-indic-nlp-corpora/data/monolingual/indicnlp_v1/sentence/gu.txt.gz)]
 2. INLTK Headline Classification Corpus  (Size: 6587 headlines, Year: 2020, Classes: 3) [[Data](https://github.com/ai4bharat-indicnlp/indicnlp_corpus#publicly-available-classification-datasets), [Repo](https://github.com/goru001/nlp-for-gujarati)]
 
+
+### Morphology
+1. Baxi, Jatayu, and Dr Bhatt. "Morpheme Boundary Detection & Grammatical Feature Prediction for Gujarati: Dataset & Model." arXiv preprint arXiv:2112.09860 (2021). [[Paper](https://arxiv.org/pdf/2112.09860v1.pdf), [Data](https://github.com/caffeine96/gujarati-nlp-wiki),[Cite](https://github.com/unimorph/guj/#references)]
+
 ### Annotation Literature
 1. Part of Speech Tagset: Gujarati (Also contains grammatical features)(Year:2009) - [Document](https://www.ldcil.org/Download/Tagset/LDCIL/5Gujrati.pdf)
 
